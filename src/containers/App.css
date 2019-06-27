@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Wonderingserif Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Wonderingserif Regular'), url('Wonderingserif-Regular.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Wonderingserif Regular';
+	font-weight: 1000;
+	color: #1E2636;
+}
+

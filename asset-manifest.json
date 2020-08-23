@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Friends/static/css/main.23314bae.chunk.css",
-    "main.js": "/Friends/static/js/main.e668d3e4.chunk.js",
-    "main.js.map": "/Friends/static/js/main.e668d3e4.chunk.js.map",
-    "runtime~main.js": "/Friends/static/js/runtime~main.4a1d6aab.js",
-    "runtime~main.js.map": "/Friends/static/js/runtime~main.4a1d6aab.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/Friends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.1a543e43.chunk.js": "/Friends/static/js/2.1a543e43.chunk.js",
-    "static/js/2.1a543e43.chunk.js.map": "/Friends/static/js/2.1a543e43.chunk.js.map",
+    "main.css": "/Friends/static/css/main.4a801dbe.chunk.css",
+    "main.js": "/Friends/static/js/main.0914f173.chunk.js",
+    "main.js.map": "/Friends/static/js/main.0914f173.chunk.js.map",
+    "runtime-main.js": "/Friends/static/js/runtime-main.e729e651.js",
+    "runtime-main.js.map": "/Friends/static/js/runtime-main.e729e651.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Friends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4950430f.chunk.js": "/Friends/static/js/2.4950430f.chunk.js",
+    "static/js/2.4950430f.chunk.js.map": "/Friends/static/js/2.4950430f.chunk.js.map",
     "index.html": "/Friends/index.html",
-    "precache-manifest.01dd4b093ffe6ebdf7d141091a130240.js": "/Friends/precache-manifest.01dd4b093ffe6ebdf7d141091a130240.js",
+    "precache-manifest.a2d576e2e0e67f9852c498c830e687e0.js": "/Friends/precache-manifest.a2d576e2e0e67f9852c498c830e687e0.js",
     "service-worker.js": "/Friends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/Friends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.23314bae.chunk.css.map": "/Friends/static/css/main.23314bae.chunk.css.map",
+    "static/css/2.3c03f26f.chunk.css.map": "/Friends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4a801dbe.chunk.css.map": "/Friends/static/css/main.4a801dbe.chunk.css.map",
+    "static/js/2.4950430f.chunk.js.LICENSE.txt": "/Friends/static/js/2.4950430f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Friends/static/media/Wonderingserif-Regular.c120aff7.woff"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e729e651.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4950430f.chunk.js",
+    "static/css/main.4a801dbe.chunk.css",
+    "static/js/main.0914f173.chunk.js"
+  ]
 }
